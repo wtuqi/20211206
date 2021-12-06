@@ -1,0 +1,68 @@
+﻿@model Integral_exchange.Models.Achievement
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Achievement</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AchievementID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AchievementID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AchievementName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AchievementName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.score)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.score)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AchieveTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AchieveTime)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <a href="@Url.Action("Edit", "Achievements", new {id = Model.ID })" class="label label-warning" style="font-size:13px"> Edit  </a>
+    <a href="@Url.Action("Index", "Achievements", new { })" class="label label-primary" style="font-size:13px"> Back to List  </a>
+</p>

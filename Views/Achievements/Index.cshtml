@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Integral_exchange.Models.Achievement>
+
+@{ ViewBag.Title = "Index";
+                Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+    <script type='text/javascript'>
+    $(document).ready(function () {
+        var a = '@ViewBag.Uname'
+            if (a != 'admin') {
+            $('#Create').hide();
+        }
+    })
+    </script>
+
+@using (@Html.BeginForm())
+{
+<h3 class="has-success">Please enter the user name in the text box. Pay attention to case</h3>
+                <p> Please enter a search user name: @Html.TextBox("UserName")  <input type="submit" value="Query" class="btn btn-success" /></p>}
+@*<input type="submit" value="" class="btn btn-lg" /><input type="submit" value="" class="btn btn-sm" /><input type="submit" value="" class="btn btn-xs"  />*@
+<p>
+    <a href="@Url.Action("Create", new { F=2 })" id="Create" class="label label-danger" style="font-size:13px"> Create New <span class="glyphicon glyphicon-plus"></span></a>
+</p>
+
+
+<table class="table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UserID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AchievementID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AchievementName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.score)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AchieveTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th style="font-family:'Microsoft YaHei'; color:blueviolet">
+            Total score @ViewData.Model.Sum(m => m.score)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.UserID)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.AchievementID)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.AchievementName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.score)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.AchievementName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Description)
+    </td>
+    <td>
+        @*@Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ID })*@
+        <a href="@Url.Action("Edit", new { id = item.ID })" class="label label-primary"> &nbsp; Edit &nbsp; </a>
+        <a href="@Url.Action("Details", new { id = item.ID })" class="label label-info"> Details </a>
+        <a href="@Url.Action("Delete", new { id = item.ID })" class="label label-danger"> Delete </a>
+    </td>
+</tr>}
+</table>
+<p>
+    <a href="@Url.Action("index", "Achievements", new { F=1 })" class="label label-success" style="font-size:13px">Previous <span class="glyphicon glyphicon-chevron-up"></span></a>
+    <span class="badge">@ViewBag.ApageNum</span>
+    <a href="@Url.Action("index", "Achievements", new { F=2 })" class="label label-success" style="font-size:13px"> &nbsp; <span class="glyphicon glyphicon-chevron-down"></span> Next  &nbsp;&nbsp; </a>
+</p>

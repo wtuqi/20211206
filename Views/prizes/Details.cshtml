@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Integral_exchange.Models.prize>
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Details</h3>
+<h4>Username--@System.Web.HttpContext.Current.User.Identity.Name.ToString() &nbsp;&nbsp;Integral--@ViewBag.integral &nbsp; <a href="@Url.Action("Details", "prizes", new {id=1 })" class="label label-primary" style="font-size:13px"> Back to List  </a></h4>
+<div>
+    <hr />
+    @foreach (var item in Model)
+    {
+<dl class="dl-horizontal">
+    <p style="padding:0px 0px">
+        <a href="@Url.Action("Details","prizes" ,new {id=item.ProductID,sel=3,Point=item.Integral})">
+            <img src="@Url.Content("~/Content/images/085201.png")" width="35" height="35" class="img-thumbnail" />
+        </a>
+        @Html.ActionLink("Edit  ", "Edit", new { id = item.ProductID }, new { @class = "label label-warning" })
+    </p>
+    <dt>
+        ProductName
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(modelitem => item.ProductName)
+    </dd>
+
+    <dt>
+        Price
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(modelitem => item.Price)
+    </dd>
+
+    <dt>
+        Integral
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(modelitem => item.Integral)
+    </dd>
+
+    <dt>
+        Pic
+    </dt>
+    <dd>
+        <img src="@Url.Content(item.Pic)" alt="Image" width="220" height="220" draggable="false" class="img-thumbnail" />
+    </dd>
+
+</dl>
+    }
+</div>
+
+<div>
+    <p>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="@Url.Action("Details", "prizes", new { sel=1 })" class="label label-success" style="font-size:13px"> Previous <span class="glyphicon glyphicon-chevron-up"></span> </a>
+        <span class="badge">@ViewBag.PpageNum</span>
+        <a href="@Url.Action("Details", "prizes", new { sel=2 })" class="label label-success" style="font-size:13px"> &nbsp;&nbsp;<span class="glyphicon glyphicon-chevron-down"></span> Next &nbsp;&nbsp;</a>
+
+    </p>
+    @*<p>
+       
+        @Html.ActionLink("Back to List", "Index", new { }, new { @class = "label label-primary" })
+    </p>*@
+</div>
+

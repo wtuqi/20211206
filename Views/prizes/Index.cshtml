@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Integral_exchange.Models.prize>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Prizes</h3>
+
+<p>
+    <a href="@Url.Action("Create", new { F=2 })" class="label label-danger" style="font-size:13px"> Create New <span class="glyphicon glyphicon-plus"></span></a>
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pic)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Integral)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pic)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Integral)
+        </td>
+        <td>
+            <!--@Html.ActionLink("Edit", "Edit", new { id = item.ProductID }) |-->
+            @*@Html.ActionLink("Details", "Details", new { id=item.ProductID }) |*@
+            <!--@Html.ActionLink("Delete", "Delete", new { id = item.ProductID })-->
+            <a href="@Url.Action("Edit", new { id = item.ProductID })" class="label label-primary"> &nbsp; Edit &nbsp; </a>
+            @*<a href="@Url.Action("Details", new { id = item.ID })" class="label label-info"> Details </a>*@
+            <a href="@Url.Action("Delete", new { id = item.ProductID })" class="label label-danger"> Delete </a>
+        </td>
+    </tr>
+}
+
+</table>

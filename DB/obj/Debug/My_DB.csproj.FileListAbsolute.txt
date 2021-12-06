@@ -74,3 +74,24 @@ D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\obj\Debug\My_DB.csprojAsse
 D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\obj\Debug\My_DB.csproj.CopyComplete
 D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\obj\Debug\DB.dll
 D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\obj\Debug\DB.pdb
+D:\GitHub\20211206\DB\bin\Debug\DB.dll
+D:\GitHub\20211206\DB\bin\Debug\DB.pdb
+D:\GitHub\20211206\DB\bin\Debug\System.Web.Mvc.dll
+D:\GitHub\20211206\DB\bin\Debug\System.Web.Razor.dll
+D:\GitHub\20211206\DB\bin\Debug\System.Web.WebPages.Razor.dll
+D:\GitHub\20211206\DB\bin\Debug\System.Web.WebPages.dll
+D:\GitHub\20211206\DB\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\GitHub\20211206\DB\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\GitHub\20211206\DB\bin\Debug\EntityFramework.xml
+D:\GitHub\20211206\DB\bin\Debug\System.Web.Mvc.xml
+D:\GitHub\20211206\DB\bin\Debug\System.Web.Razor.xml
+D:\GitHub\20211206\DB\bin\Debug\System.Web.WebPages.Razor.xml
+D:\GitHub\20211206\DB\bin\Debug\System.Web.WebPages.xml
+D:\GitHub\20211206\DB\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\GitHub\20211206\DB\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\GitHub\20211206\DB\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\GitHub\20211206\DB\obj\Debug\My_DB.csprojAssemblyReference.cache
+D:\GitHub\20211206\DB\obj\Debug\My_DB.csproj.CoreCompileInputs.cache
+D:\GitHub\20211206\DB\obj\Debug\My_DB.csproj.CopyComplete
+D:\GitHub\20211206\DB\obj\Debug\DB.dll
+D:\GitHub\20211206\DB\obj\Debug\DB.pdb

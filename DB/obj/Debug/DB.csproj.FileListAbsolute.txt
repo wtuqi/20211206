@@ -1,0 +1,15 @@
+C:\Users\wtuqi\source\repos\DB\bin\Debug\DB.dll
+C:\Users\wtuqi\source\repos\DB\bin\Debug\DB.pdb
+C:\Users\wtuqi\source\repos\DB\bin\Debug\EntityFramework.dll
+C:\Users\wtuqi\source\repos\DB\bin\Debug\System.Web.Mvc.dll
+C:\Users\wtuqi\source\repos\DB\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wtuqi\source\repos\DB\bin\Debug\EntityFramework.xml
+C:\Users\wtuqi\source\repos\DB\bin\Debug\System.Web.Mvc.xml
+C:\Users\wtuqi\source\repos\DB\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\wtuqi\source\repos\DB\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\wtuqi\source\repos\DB\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\wtuqi\source\repos\DB\obj\Debug\DB.csprojAssemblyReference.cache
+C:\Users\wtuqi\source\repos\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\wtuqi\source\repos\DB\obj\Debug\DB.csproj.CopyComplete
+C:\Users\wtuqi\source\repos\DB\obj\Debug\DB.dll
+C:\Users\wtuqi\source\repos\DB\obj\Debug\DB.pdb

@@ -1,0 +1,76 @@
+C:\Users\wtuqi\source\repos\DB\bin\Debug\DB.dll
+C:\Users\wtuqi\source\repos\DB\bin\Debug\DB.pdb
+C:\Users\wtuqi\source\repos\DB\bin\Debug\EntityFramework.dll
+C:\Users\wtuqi\source\repos\DB\bin\Debug\System.Web.Mvc.dll
+C:\Users\wtuqi\source\repos\DB\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wtuqi\source\repos\DB\bin\Debug\EntityFramework.xml
+C:\Users\wtuqi\source\repos\DB\bin\Debug\System.Web.Mvc.xml
+C:\Users\wtuqi\source\repos\DB\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\wtuqi\source\repos\DB\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\wtuqi\source\repos\DB\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\wtuqi\source\repos\DB\obj\Debug\My_DB.csproj.CoreCompileInputs.cache
+C:\Users\wtuqi\source\repos\DB\obj\Debug\My_DB.csproj.CopyComplete
+C:\Users\wtuqi\source\repos\DB\obj\Debug\DB.dll
+C:\Users\wtuqi\source\repos\DB\obj\Debug\DB.pdb
+C:\Users\wtuqi\source\repos\DB\obj\Debug\My_DB.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\DB.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\DB.pdb
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\obj\Debug\My_DB.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\obj\Debug\My_DB.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\obj\Debug\DB.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\DB\obj\Debug\DB.pdb
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\DB.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\DB.pdb
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\System.Web.Mvc.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\System.Web.Razor.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\System.Web.WebPages.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\EntityFramework.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\System.Web.Mvc.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\System.Web.Razor.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\System.Web.WebPages.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\obj\Debug\My_DB.csprojAssemblyReference.cache
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\obj\Debug\My_DB.csproj.CoreCompileInputs.cache
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\obj\Debug\My_DB.csproj.CopyComplete
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\obj\Debug\DB.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\DB\obj\Debug\DB.pdb
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\DB.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\DB.pdb
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\System.Web.Mvc.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\System.Web.Razor.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\System.Web.WebPages.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\EntityFramework.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\System.Web.Mvc.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\System.Web.Razor.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\System.Web.WebPages.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\obj\Debug\My_DB.csprojAssemblyReference.cache
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\obj\Debug\My_DB.csproj.CopyComplete
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\obj\Debug\DB.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\DB\obj\Debug\DB.pdb

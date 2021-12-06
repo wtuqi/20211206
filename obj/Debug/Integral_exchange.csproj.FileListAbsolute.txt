@@ -1,0 +1,1036 @@
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Integral_exchange.dll.config
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Integral_exchange.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Integral_exchange.pdb
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\csc.exe
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\csc.exe.config
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\csc.rsp
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\csi.exe
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\csi.rsp
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\System.AppContext.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\vbc.exe
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\vbc.exe.config
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\vbc.rsp
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\VBCSCompiler.exe
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Antlr3.Runtime.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\EntityFramework.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\EntityFramework.SqlServer.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Newtonsoft.Json.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Owin.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.Helpers.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.Mvc.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.Optimization.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.Razor.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.WebPages.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.WebPages.Razor.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\WebGrease.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.Helpers.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.Mvc.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.Optimization.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.Razor.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.WebPages.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\System.Web.WebPages.Razor.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Newtonsoft.Json.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Antlr3.Runtime.pdb
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\EntityFramework.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\EntityFramework.SqlServer.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\obj\Debug\Integral_exchange.csprojAssemblyReference.cache
+C:\Users\wtuqi\source\repos\Integral_exchange\obj\Debug\Integral_exchange.csproj.CoreCompileInputs.cache
+C:\Users\wtuqi\source\repos\Integral_exchange\obj\Debug\Integral_exchange.csproj.CopyComplete
+C:\Users\wtuqi\source\repos\Integral_exchange\obj\Debug\Integral_exchange.dll
+C:\Users\wtuqi\source\repos\Integral_exchange\obj\Debug\Integral_exchange.pdb
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Integral_exchange.dll.config
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Integral_exchange.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Integral_exchange.pdb
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Owin.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\obj\Debug\Integral_exchange.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\obj\Debug\Integral_exchange.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\obj\Debug\Integral_exchange.dll
+C:\Users\Administrator\Desktop\Integral_exchange20211029\Integral_exchange\obj\Debug\Integral_exchange.pdb
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Integral_exchange.dll.config
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Integral_exchange.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Integral_exchange.pdb
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\csc.exe
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\csc.exe.config
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\csc.rsp
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\csi.exe
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\csi.rsp
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\System.AppContext.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\vbc.exe
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\vbc.exe.config
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\vbc.rsp
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\VBCSCompiler.exe
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Antlr3.Runtime.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\EntityFramework.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\EntityFramework.SqlServer.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Newtonsoft.Json.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Owin.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.Helpers.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.Mvc.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.Optimization.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.Razor.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.WebPages.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.WebPages.Razor.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\WebGrease.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.Helpers.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.Mvc.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.Optimization.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.Razor.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.WebPages.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\System.Web.WebPages.Razor.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Newtonsoft.Json.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Antlr3.Runtime.pdb
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\EntityFramework.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\EntityFramework.SqlServer.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\obj\Debug\Integral_exchange.csprojAssemblyReference.cache
+C:\Users\wtuqi\Desktop\Integral_exchange\obj\Debug\Integral_exchange.csproj.CoreCompileInputs.cache
+C:\Users\wtuqi\Desktop\Integral_exchange\obj\Debug\Integral_exchange.csproj.CopyComplete
+C:\Users\wtuqi\Desktop\Integral_exchange\obj\Debug\Integral_exchange.dll
+C:\Users\wtuqi\Desktop\Integral_exchange\obj\Debug\Integral_exchange.pdb
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Integral_exchange.dll.config
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Integral_exchange.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Integral_exchange.pdb
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\csc.exe
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\csc.exe.config
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\csc.rsp
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\csi.exe
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\csi.rsp
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\System.AppContext.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\vbc.exe
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\vbc.exe.config
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\vbc.rsp
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\VBCSCompiler.exe
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Antlr3.Runtime.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\EntityFramework.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\EntityFramework.SqlServer.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Newtonsoft.Json.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Owin.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.Helpers.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.Mvc.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.Optimization.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.Razor.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.WebPages.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.WebPages.Razor.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\WebGrease.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.Helpers.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.Mvc.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.Optimization.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.Razor.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.WebPages.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\System.Web.WebPages.Razor.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Newtonsoft.Json.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Antlr3.Runtime.pdb
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\EntityFramework.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\EntityFramework.SqlServer.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\obj\Debug\Integral_exchange.csprojAssemblyReference.cache
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\obj\Debug\Integral_exchange.csproj.CoreCompileInputs.cache
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\obj\Debug\Integral_exchange.csproj.CopyComplete
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\obj\Debug\Integral_exchange.dll
+C:\Users\wtuqi\Desktop\Integral_exchange-master\Integral_exchange-master\obj\Debug\Integral_exchange.pdb
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Integral_exchange.dll.config
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Integral_exchange.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Integral_exchange.pdb
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\csc.exe
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\csc.exe.config
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\csc.rsp
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\csi.exe
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\csi.rsp
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\System.AppContext.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\System.Collections.Immutable.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\System.IO.FileSystem.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\System.Reflection.Metadata.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\vbc.exe
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\vbc.exe.config
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\vbc.rsp
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\VBCSCompiler.exe
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\roslyn\VBCSCompiler.exe.config
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Antlr3.Runtime.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\EntityFramework.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\EntityFramework.SqlServer.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Core.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.Cookies.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.Facebook.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.Google.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.OAuth.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.Twitter.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Web.Infrastructure.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Newtonsoft.Json.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Owin.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.Helpers.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.Mvc.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.Optimization.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.Razor.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.WebPages.Deployment.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.WebPages.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.WebPages.Razor.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\WebGrease.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.Helpers.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.Mvc.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.Optimization.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.Razor.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.WebPages.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.WebPages.Deployment.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\System.Web.WebPages.Razor.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Newtonsoft.Json.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Antlr3.Runtime.pdb
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\EntityFramework.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\EntityFramework.SqlServer.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Core.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.Facebook.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.Cookies.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.Google.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.Twitter.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.Owin.Security.OAuth.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\System.Web.Helpers.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\System.Web.Mvc.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\System.Web.Optimization.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\System.Web.Razor.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\System.Web.WebPages.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\EntityFramework.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\obj\Debug\Integral_exchange.csprojAssemblyReference.cache
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\obj\Debug\Integral_exchange.csproj.CopyComplete
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\obj\Debug\Integral_exchange.dll
+G:\迅雷下载\Integral_exchange-master20211126\Integral_exchange-master\obj\Debug\Integral_exchange.pdb
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Integral_exchange.dll.config
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Integral_exchange.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Integral_exchange.pdb
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\csc.exe
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\csc.exe.config
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\csc.rsp
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\csi.exe
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\csi.rsp
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\System.AppContext.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\System.Collections.Immutable.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\System.IO.FileSystem.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\System.Reflection.Metadata.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\vbc.exe
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\vbc.exe.config
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\vbc.rsp
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\VBCSCompiler.exe
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\roslyn\VBCSCompiler.exe.config
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Antlr3.Runtime.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\EntityFramework.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\EntityFramework.SqlServer.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.Google.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Web.Infrastructure.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Newtonsoft.Json.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Owin.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.Helpers.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.Mvc.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.Optimization.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.Razor.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.WebPages.Deployment.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.WebPages.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.WebPages.Razor.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\WebGrease.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.Helpers.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.Mvc.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.Optimization.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.Razor.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.WebPages.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.WebPages.Deployment.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\System.Web.WebPages.Razor.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Newtonsoft.Json.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Antlr3.Runtime.pdb
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\EntityFramework.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\EntityFramework.SqlServer.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.Google.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\EntityFramework.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\obj\Debug\Integral_exchange.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\obj\Debug\Integral_exchange.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\obj\Debug\Integral_exchange.csproj.CopyComplete
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\obj\Debug\Integral_exchange.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211128\Integral_exchange-master\obj\Debug\Integral_exchange.pdb
+D:\BAIDU\Integral_exchange-master20211203\bin\Integral_exchange.dll.config
+D:\BAIDU\Integral_exchange-master20211203\bin\Integral_exchange.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Integral_exchange.pdb
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\csc.exe
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\csc.exe.config
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\csc.rsp
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\csi.exe
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\csi.rsp
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\System.AppContext.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\System.Collections.Immutable.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\System.IO.FileSystem.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\System.Reflection.Metadata.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\vbc.exe
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\vbc.exe.config
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\vbc.rsp
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\VBCSCompiler.exe
+D:\BAIDU\Integral_exchange-master20211203\bin\roslyn\VBCSCompiler.exe.config
+D:\BAIDU\Integral_exchange-master20211203\bin\Antlr3.Runtime.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\EntityFramework.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\EntityFramework.SqlServer.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.Google.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Web.Infrastructure.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Newtonsoft.Json.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\Owin.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.Helpers.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.Mvc.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.Optimization.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.Razor.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.WebPages.Deployment.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.WebPages.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.WebPages.Razor.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\WebGrease.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.Helpers.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.Mvc.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.Optimization.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.Razor.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.WebPages.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.WebPages.Deployment.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\System.Web.WebPages.Razor.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Newtonsoft.Json.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Antlr3.Runtime.pdb
+D:\BAIDU\Integral_exchange-master20211203\bin\EntityFramework.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\EntityFramework.SqlServer.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.Google.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\EntityFramework.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\BAIDU\Integral_exchange-master20211203\obj\Debug\Integral_exchange.csprojAssemblyReference.cache
+D:\BAIDU\Integral_exchange-master20211203\obj\Debug\Integral_exchange.csproj.CopyComplete
+D:\BAIDU\Integral_exchange-master20211203\obj\Debug\Integral_exchange.dll
+D:\BAIDU\Integral_exchange-master20211203\obj\Debug\Integral_exchange.pdb
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Integral_exchange.dll.config
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Integral_exchange.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Integral_exchange.pdb
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\csc.exe
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\csc.exe.config
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\csc.rsp
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\csi.exe
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\csi.rsp
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\System.AppContext.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\System.Collections.Immutable.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\System.IO.FileSystem.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\System.Reflection.Metadata.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\vbc.exe
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\vbc.exe.config
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\vbc.rsp
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\VBCSCompiler.exe
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\roslyn\VBCSCompiler.exe.config
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Antlr3.Runtime.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\EntityFramework.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\EntityFramework.SqlServer.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.Google.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Web.Infrastructure.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Newtonsoft.Json.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Owin.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.Helpers.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.Mvc.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.Optimization.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.Razor.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.WebPages.Deployment.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.WebPages.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.WebPages.Razor.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\WebGrease.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.Helpers.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.Mvc.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.Optimization.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.Razor.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.WebPages.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.WebPages.Deployment.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\System.Web.WebPages.Razor.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Newtonsoft.Json.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Antlr3.Runtime.pdb
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\EntityFramework.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\EntityFramework.SqlServer.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.Google.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\EntityFramework.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\obj\Debug\Integral_exchange.csproj.CopyComplete
+D:\BAIDU\Integral_exchange-master20211203 - 副本\obj\Debug\Integral_exchange.dll
+D:\BAIDU\Integral_exchange-master20211203 - 副本\obj\Debug\Integral_exchange.pdb
+D:\BAIDU\Integral_exchange-master20211203 - 副本\obj\Debug\Integral_exchange.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Integral_exchange.dll.config
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Integral_exchange.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Integral_exchange.pdb
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\csc.exe
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\csc.exe.config
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\csc.rsp
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\csi.exe
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\csi.rsp
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\System.AppContext.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\System.Collections.Immutable.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\System.IO.FileSystem.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\System.Reflection.Metadata.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\vbc.exe
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\vbc.exe.config
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\vbc.rsp
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\VBCSCompiler.exe
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\roslyn\VBCSCompiler.exe.config
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Antlr3.Runtime.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\EntityFramework.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\EntityFramework.SqlServer.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.Google.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Web.Infrastructure.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Newtonsoft.Json.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Owin.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.Helpers.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.Mvc.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.Optimization.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.Razor.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.WebPages.Deployment.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.WebPages.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.WebPages.Razor.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\WebGrease.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.Helpers.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.Mvc.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.Optimization.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.Razor.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.WebPages.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.WebPages.Deployment.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\System.Web.WebPages.Razor.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Newtonsoft.Json.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Antlr3.Runtime.pdb
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\EntityFramework.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\EntityFramework.SqlServer.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.Google.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\EntityFramework.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\obj\Debug\Integral_exchange.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\obj\Debug\Integral_exchange.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\obj\Debug\Integral_exchange.csproj.CopyComplete
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\obj\Debug\Integral_exchange.dll
+D:\BaiduNetdiskDownload\Integral_exchange-master20211205\obj\Debug\Integral_exchange.pdb
+D:\GitHub\20211206\bin\Integral_exchange.dll.config
+D:\GitHub\20211206\bin\Integral_exchange.dll
+D:\GitHub\20211206\bin\Integral_exchange.pdb
+D:\GitHub\20211206\bin\roslyn\csc.exe
+D:\GitHub\20211206\bin\roslyn\csc.exe.config
+D:\GitHub\20211206\bin\roslyn\csc.rsp
+D:\GitHub\20211206\bin\roslyn\csi.exe
+D:\GitHub\20211206\bin\roslyn\csi.rsp
+D:\GitHub\20211206\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\20211206\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\20211206\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GitHub\20211206\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\20211206\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GitHub\20211206\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\20211206\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\20211206\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GitHub\20211206\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GitHub\20211206\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\20211206\bin\roslyn\System.AppContext.dll
+D:\GitHub\20211206\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\20211206\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GitHub\20211206\bin\roslyn\System.IO.FileSystem.dll
+D:\GitHub\20211206\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GitHub\20211206\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\20211206\bin\roslyn\vbc.exe
+D:\GitHub\20211206\bin\roslyn\vbc.exe.config
+D:\GitHub\20211206\bin\roslyn\vbc.rsp
+D:\GitHub\20211206\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\20211206\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\20211206\bin\Antlr3.Runtime.dll
+D:\GitHub\20211206\bin\EntityFramework.dll
+D:\GitHub\20211206\bin\EntityFramework.SqlServer.dll
+D:\GitHub\20211206\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GitHub\20211206\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitHub\20211206\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GitHub\20211206\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\20211206\bin\Microsoft.Owin.dll
+D:\GitHub\20211206\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.dll
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.Google.dll
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GitHub\20211206\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\20211206\bin\Newtonsoft.Json.dll
+D:\GitHub\20211206\bin\Owin.dll
+D:\GitHub\20211206\bin\System.Web.Helpers.dll
+D:\GitHub\20211206\bin\System.Web.Mvc.dll
+D:\GitHub\20211206\bin\System.Web.Optimization.dll
+D:\GitHub\20211206\bin\System.Web.Razor.dll
+D:\GitHub\20211206\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\20211206\bin\System.Web.WebPages.dll
+D:\GitHub\20211206\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\20211206\bin\WebGrease.dll
+D:\GitHub\20211206\bin\System.Web.Helpers.xml
+D:\GitHub\20211206\bin\System.Web.Mvc.xml
+D:\GitHub\20211206\bin\System.Web.Optimization.xml
+D:\GitHub\20211206\bin\System.Web.Razor.xml
+D:\GitHub\20211206\bin\System.Web.WebPages.xml
+D:\GitHub\20211206\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\20211206\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\20211206\bin\Newtonsoft.Json.xml
+D:\GitHub\20211206\bin\Antlr3.Runtime.pdb
+D:\GitHub\20211206\bin\EntityFramework.xml
+D:\GitHub\20211206\bin\EntityFramework.SqlServer.xml
+D:\GitHub\20211206\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GitHub\20211206\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GitHub\20211206\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitHub\20211206\bin\Microsoft.Owin.xml
+D:\GitHub\20211206\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.xml
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.Google.xml
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GitHub\20211206\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GitHub\20211206\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\20211206\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\EntityFramework.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\GitHub\20211206\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\GitHub\20211206\obj\Debug\Integral_exchange.csprojAssemblyReference.cache
+D:\GitHub\20211206\obj\Debug\Integral_exchange.csproj.CoreCompileInputs.cache
+D:\GitHub\20211206\obj\Debug\Integral_exchange.csproj.CopyComplete
+D:\GitHub\20211206\obj\Debug\Integral_exchange.dll
+D:\GitHub\20211206\obj\Debug\Integral_exchange.pdb
